@@ -1,11 +1,13 @@
 ntp
-firmware-realtek
-firmware-brcm80211
 firmware-atheros
-firmware-ralink
 firmware-iwlwifi
+firmware-linux-nonfree
+firmware-realtek
 wireless-tools
-wpasupplicant
 iw
 hdparm
 smartmontools
+apt-transport-https
+lshw
+curl
+wget
